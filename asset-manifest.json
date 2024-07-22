@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Akbasal22/static-react-site/static/css/main.ed7560f6.css",
+    "main.js": "/Akbasal22/static-react-site/static/js/main.cc03d963.js",
+    "static/js/453.e5b00392.chunk.js": "/Akbasal22/static-react-site/static/js/453.e5b00392.chunk.js",
+    "index.html": "/Akbasal22/static-react-site/index.html",
+    "main.ed7560f6.css.map": "/Akbasal22/static-react-site/static/css/main.ed7560f6.css.map",
+    "main.cc03d963.js.map": "/Akbasal22/static-react-site/static/js/main.cc03d963.js.map",
+    "453.e5b00392.chunk.js.map": "/Akbasal22/static-react-site/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed7560f6.css",
+    "static/js/main.cc03d963.js"
+  ]
+}
